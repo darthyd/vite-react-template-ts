@@ -1,0 +1,30 @@
+{
+  "name": "vite-react-template-ts",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "An opinionated pre-configured template for creating a new React Vite project with TypeScript, Eslint, Prettier, and more.",
+  "scripts": {
+    "dev": "vite",
+    "dev:host": "vite --host",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1"
+  },
+  "devDependencies": {
+    "@stitches/react": "^1.2.6",
+    "@types/node": "^17.0.12",
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.11",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^1.0.7",
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-typescript-prettier": "^5.0.0",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5",
+    "vite": "^2.7.2"
+  }
+}
