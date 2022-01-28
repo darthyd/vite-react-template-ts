@@ -26,7 +26,7 @@ export default function Home() {
       <Text style={{ width: '30vw', marginBottom: '2vw' }}>
         This is an opinionated starting point, to get you going with React using
         Vite. Also includes Stitches library for CSS-in-JS, React Router for
-        navigation and pre-configurated with Prettier, ESLint and Typescript.
+        navigation and pre-configured with Prettier, ESLint and Typescript.
       </Text>
       <Button outlined size={3} color="secondary">
         Get Started
